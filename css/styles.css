@@ -1,0 +1,24 @@
+h1 {
+  font-weight: bold;
+}
+
+.about {
+  color: grey;
+  font-style: italic;
+}
+
+.intro {
+  color: blue;
+}
+
+.job1 {
+  color: yellow;
+}
+
+.job2 {
+  color: orange;
+}
+
+.job3 {
+  color: magenta;
+}
